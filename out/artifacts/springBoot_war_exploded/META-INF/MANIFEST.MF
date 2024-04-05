@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: warcr
+Build-Jdk: Oracle OpenJDK version 21.0.2
+Implementation-Title: springBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.web
+Main-Class: ${start-class}
+
