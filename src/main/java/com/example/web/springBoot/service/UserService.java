@@ -1,7 +1,6 @@
 package com.example.web.springBoot.service;
 
 
-
 import com.example.web.springBoot.model.User;
 
 import java.util.List;
